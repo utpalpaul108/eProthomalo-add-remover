@@ -1,1 +1,1 @@
-# eProthomalo-add-remover
+# eProthomalo add remover chrome extension
